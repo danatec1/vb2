@@ -1,0 +1,13 @@
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\bin\Debug\phone_book_pro.exe
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\bin\Debug\phone_book_pro.pdb
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\bin\Debug\phone_book_pro.xml
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.About_Us.resources
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.main_form.resources
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.Resources.resources
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.reg_data.resources
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.Search_form.resources
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.exe
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.xml
+C:\Users\Rec User\source\repos\phone_book_pro_sn\phone_book_pro\obj\Debug\phone_book_pro.pdb

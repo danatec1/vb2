@@ -1,0 +1,10 @@
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\bin\Debug\info_text_pro.exe
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\bin\Debug\info_text_pro.pdb
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\bin\Debug\info_text_pro.xml
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\obj\Debug\info_text_pro.Form1.resources
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\obj\Debug\info_text_pro.Resources.resources
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\obj\Debug\info_text_pro.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\obj\Debug\info_text_pro.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\obj\Debug\info_text_pro.exe
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\obj\Debug\info_text_pro.xml
+C:\Users\Rec User\source\repos\info_text_pro_sn\info_text_pro\obj\Debug\info_text_pro.pdb

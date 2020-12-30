@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\bin\Debug\event_pro.exe
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\bin\Debug\event_pro.pdb
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\bin\Debug\event_pro.xml
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\obj\Debug\event_pro.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\obj\Debug\event_pro.Form1.resources
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\obj\Debug\event_pro.Resources.resources
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\obj\Debug\event_pro.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\obj\Debug\event_pro.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\obj\Debug\event_pro.exe
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\obj\Debug\event_pro.xml
+C:\Users\Rec User\source\repos\event_pro_sn\event_pro\obj\Debug\event_pro.pdb

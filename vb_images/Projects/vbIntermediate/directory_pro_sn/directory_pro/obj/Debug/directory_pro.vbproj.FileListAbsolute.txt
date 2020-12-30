@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\bin\Debug\directory_pro.exe
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\bin\Debug\directory_pro.pdb
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\bin\Debug\directory_pro.xml
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\obj\Debug\directory_pro.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\obj\Debug\directory_pro.Form1.resources
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\obj\Debug\directory_pro.Resources.resources
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\obj\Debug\directory_pro.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\obj\Debug\directory_pro.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\obj\Debug\directory_pro.exe
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\obj\Debug\directory_pro.xml
+C:\Users\Rec User\source\repos\directory_pro_sn\directory_pro\obj\Debug\directory_pro.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\bin\Debug\Hello_vb_code.exe
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\bin\Debug\Hello_vb_code.pdb
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\bin\Debug\Hello_vb_code.xml
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\obj\Debug\Hello_vb_code.Form1.resources
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\obj\Debug\Hello_vb_code.Resources.resources
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\obj\Debug\Hello_vb_code.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\obj\Debug\Hello_vb_code.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\obj\Debug\Hello_vb_code.exe
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\obj\Debug\Hello_vb_code.xml
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\obj\Debug\Hello_vb_code.pdb
+C:\Users\Rec User\source\repos\Hello_vb_code_sn\Hello_vb_code\obj\Debug\Hello_vb_code.vbprojAssemblyReference.cache

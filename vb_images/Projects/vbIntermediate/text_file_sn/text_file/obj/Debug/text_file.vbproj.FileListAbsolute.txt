@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\text_file_sn\text_file\bin\Debug\text_file.exe
+C:\Users\Rec User\source\repos\text_file_sn\text_file\bin\Debug\text_file.pdb
+C:\Users\Rec User\source\repos\text_file_sn\text_file\bin\Debug\text_file.xml
+C:\Users\Rec User\source\repos\text_file_sn\text_file\obj\Debug\text_file.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\text_file_sn\text_file\obj\Debug\text_file.Form1.resources
+C:\Users\Rec User\source\repos\text_file_sn\text_file\obj\Debug\text_file.Resources.resources
+C:\Users\Rec User\source\repos\text_file_sn\text_file\obj\Debug\text_file.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\text_file_sn\text_file\obj\Debug\text_file.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\text_file_sn\text_file\obj\Debug\text_file.exe
+C:\Users\Rec User\source\repos\text_file_sn\text_file\obj\Debug\text_file.xml
+C:\Users\Rec User\source\repos\text_file_sn\text_file\obj\Debug\text_file.pdb

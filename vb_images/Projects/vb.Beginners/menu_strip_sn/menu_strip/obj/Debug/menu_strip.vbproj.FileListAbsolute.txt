@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\bin\Debug\menu_strip.exe
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\bin\Debug\menu_strip.pdb
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\bin\Debug\menu_strip.xml
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\obj\Debug\menu_strip.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\obj\Debug\menu_strip.Form1.resources
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\obj\Debug\menu_strip.Resources.resources
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\obj\Debug\menu_strip.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\obj\Debug\menu_strip.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\obj\Debug\menu_strip.exe
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\obj\Debug\menu_strip.xml
+C:\Users\Rec User\source\repos\menu_strip_sn\menu_strip\obj\Debug\menu_strip.pdb

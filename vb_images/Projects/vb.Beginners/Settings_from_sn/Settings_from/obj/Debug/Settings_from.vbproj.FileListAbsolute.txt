@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\bin\Debug\Settings_from.exe
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\bin\Debug\Settings_from.pdb
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\bin\Debug\Settings_from.xml
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\obj\Debug\Settings_from.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\obj\Debug\Settings_from.Form1.resources
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\obj\Debug\Settings_from.Resources.resources
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\obj\Debug\Settings_from.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\obj\Debug\Settings_from.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\obj\Debug\Settings_from.exe
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\obj\Debug\Settings_from.xml
+C:\Users\Rec User\source\repos\Settings_from_sn\Settings_from\obj\Debug\Settings_from.pdb

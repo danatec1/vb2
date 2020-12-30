@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\bin\Debug\Controls_pro.exe
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\bin\Debug\Controls_pro.pdb
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\bin\Debug\Controls_pro.xml
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\obj\Debug\Controls_pro.Form1.resources
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\obj\Debug\Controls_pro.Resources.resources
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\obj\Debug\Controls_pro.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\obj\Debug\Controls_pro.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\obj\Debug\Controls_pro.exe
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\obj\Debug\Controls_pro.xml
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\obj\Debug\Controls_pro.pdb
+C:\Users\Rec User\source\repos\Controls_pro_sn\Controls_pro\obj\Debug\Controls_pro.vbprojAssemblyReference.cache

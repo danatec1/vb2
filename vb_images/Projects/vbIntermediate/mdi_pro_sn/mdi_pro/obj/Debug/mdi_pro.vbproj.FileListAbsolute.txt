@@ -1,0 +1,13 @@
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\bin\Debug\mdi_pro.exe
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\bin\Debug\mdi_pro.pdb
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\bin\Debug\mdi_pro.xml
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.Backup.resources
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.Form1.resources
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.Resources.resources
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.settings.resources
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.tools.resources
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.exe
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.xml
+C:\Users\Rec User\source\repos\mdi_pro_sn\mdi_pro\obj\Debug\mdi_pro.pdb

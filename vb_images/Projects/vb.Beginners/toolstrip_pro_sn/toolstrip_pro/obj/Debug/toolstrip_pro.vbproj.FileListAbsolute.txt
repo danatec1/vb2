@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\bin\Debug\toolstrip_pro.exe
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\bin\Debug\toolstrip_pro.pdb
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\bin\Debug\toolstrip_pro.xml
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\obj\Debug\toolstrip_pro.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\obj\Debug\toolstrip_pro.Form1.resources
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\obj\Debug\toolstrip_pro.Resources.resources
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\obj\Debug\toolstrip_pro.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\obj\Debug\toolstrip_pro.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\obj\Debug\toolstrip_pro.exe
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\obj\Debug\toolstrip_pro.xml
+C:\Users\Rec User\source\repos\toolstrip_pro_sn\toolstrip_pro\obj\Debug\toolstrip_pro.pdb

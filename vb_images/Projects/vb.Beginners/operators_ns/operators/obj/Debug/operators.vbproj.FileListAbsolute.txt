@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\operators_ns\operators\bin\Debug\operators.exe
+C:\Users\Rec User\source\repos\operators_ns\operators\bin\Debug\operators.pdb
+C:\Users\Rec User\source\repos\operators_ns\operators\bin\Debug\operators.xml
+C:\Users\Rec User\source\repos\operators_ns\operators\obj\Debug\operators.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\operators_ns\operators\obj\Debug\operators.Form1.resources
+C:\Users\Rec User\source\repos\operators_ns\operators\obj\Debug\operators.Resources.resources
+C:\Users\Rec User\source\repos\operators_ns\operators\obj\Debug\operators.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\operators_ns\operators\obj\Debug\operators.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\operators_ns\operators\obj\Debug\operators.exe
+C:\Users\Rec User\source\repos\operators_ns\operators\obj\Debug\operators.xml
+C:\Users\Rec User\source\repos\operators_ns\operators\obj\Debug\operators.pdb

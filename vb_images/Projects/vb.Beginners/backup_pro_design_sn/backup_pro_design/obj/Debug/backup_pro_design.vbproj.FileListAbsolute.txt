@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\bin\Debug\backup_pro_design.exe
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\bin\Debug\backup_pro_design.pdb
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\bin\Debug\backup_pro_design.xml
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\obj\Debug\backup_pro_design.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\obj\Debug\backup_pro_design.Form1.resources
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\obj\Debug\backup_pro_design.Resources.resources
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\obj\Debug\backup_pro_design.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\obj\Debug\backup_pro_design.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\obj\Debug\backup_pro_design.exe
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\obj\Debug\backup_pro_design.xml
+C:\Users\Rec User\source\repos\backup_pro_design_sn\backup_pro_design\obj\Debug\backup_pro_design.pdb

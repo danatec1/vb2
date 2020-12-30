@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\bin\Debug\form_properties.exe
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\bin\Debug\form_properties.pdb
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\bin\Debug\form_properties.xml
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\obj\Debug\form_properties.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\obj\Debug\form_properties.Form1.resources
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\obj\Debug\form_properties.Resources.resources
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\obj\Debug\form_properties.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\obj\Debug\form_properties.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\obj\Debug\form_properties.exe
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\obj\Debug\form_properties.xml
+C:\Users\Rec User\source\repos\form_properties_sn\form_properties\obj\Debug\form_properties.pdb

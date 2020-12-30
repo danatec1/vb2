@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\bin\Debug\dialog_pro.exe
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\bin\Debug\dialog_pro.pdb
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\bin\Debug\dialog_pro.xml
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\obj\Debug\dialog_pro.vbprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\obj\Debug\dialog_pro.Form1.resources
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\obj\Debug\dialog_pro.Resources.resources
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\obj\Debug\dialog_pro.vbproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\obj\Debug\dialog_pro.vbproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\obj\Debug\dialog_pro.exe
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\obj\Debug\dialog_pro.xml
+C:\Users\Rec User\source\repos\dialog_pro_sn\dialog_pro\obj\Debug\dialog_pro.pdb
